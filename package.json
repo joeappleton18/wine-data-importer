@@ -1,0 +1,14 @@
+{
+  "name": "wines-data-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "seed" : "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
